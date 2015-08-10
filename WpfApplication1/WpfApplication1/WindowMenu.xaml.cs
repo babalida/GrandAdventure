@@ -22,6 +22,17 @@ namespace WpfApplication1
         public WindowMenu()
         {
             InitializeComponent();
+            MainWindow window2 = new MainWindow();
+            this.Hide();
+            if (window2.ShowDialog() == true)
+            {
+                this.Show();
+            }
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

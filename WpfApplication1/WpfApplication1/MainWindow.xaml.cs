@@ -97,6 +97,8 @@ namespace WpfApplication1
                 tbWarning.BeginAnimation(TextBlock.OpacityProperty, a);
 
             }
+
+            DialogResult = true;
         }
 
         private void loginTextBox_TextChanged(object sender, TextChangedEventArgs e)
