@@ -11,3 +11,4 @@ c:\users\sasha\documents\visual studio 2013\Projects\WpfApplication1\WpfApplicat
 c:\users\sasha\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
 c:\users\sasha\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 c:\users\sasha\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
